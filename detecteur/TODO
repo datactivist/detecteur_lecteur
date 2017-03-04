@@ -1,6 +1,6 @@
 TODO
 
-- utiliser de vraies données
+- utiliser de vraies données, via piwik pour commencer (à ce sujet : https://amarder.github.io/piwikr/)
 - faire un tab "expert"
 - gérer l'encodage Windows
 - synchroniser les viz avec le tableau
