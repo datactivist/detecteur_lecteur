@@ -63,6 +63,8 @@ observe({
   }
 })
 
+sliderInput("sensitivite", label = "Seuil de sensitivité", min = 0, max = 250, value = 150, step = 10)
+
 ```
 
 
@@ -106,7 +108,7 @@ piwik_ts <- reactive({
 })
 
 anomalies_ts <- reactive({
-  tmp <- piwik %>% filter(`Unique Pageviews` > 50)
+  tmp <- piwik %>% filter(`Unique Pageviews` > input$sensitivite)
   tmp <- tmp %>% 
     mutate(title = "!",
            text = "Un lecteur inattendu ?")
