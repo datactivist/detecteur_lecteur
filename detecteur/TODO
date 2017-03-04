@@ -1,0 +1,16 @@
+TODO
+
+- utiliser de vraies données
+- faire un tab "expert"
+- gérer l'encodage Windows
+- synchroniser les viz avec le tableau
+- documentation / aide à l'utilisateur
+- intégration de la logique serveur :
+  - import données préprocessées
+  - interrogation piwik
+  
+NEXT STEP
+
+- finaliser l'interface
+- finaliser la fonction de détection
+- produire les données depuis Piwik de manière programmée
