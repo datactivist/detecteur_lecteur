@@ -1,0 +1,29 @@
+---
+title: "Vendredi de la donnée - 1"
+output: html_notebook
+---
+
+Projet "Appropriations". 3 projets déposés : ANR (recalé cette année, bonnes chances l'an prochain), IDEX Aix-Marseille (enquêtes de terrain pévues avec interview, vers fin 2017 si budgets obtenus), ISTEX (retenu, quelques dizaines de milliers d'euros, opération "usages alpha"). Obligation : présenter pendant une journée les résultats à la fin du projet. 
+
+Au delà de la production de connaissances, objectifs opérationnels : aider l'éditorial et la prod.
+
+# Rappel du concept de lecteur inattendu
+
+- détecteur de lecteur inattendu (quanti)
+- mais aussi lecteur inattendu quali
+
+On peut imaginer une newsletter hebdo des documents ayant bénéficié de "lecteurs inattendus". 
+
+# Front-end
+
+- dashboard => génération d'alertes (pour CM/responsable de pôles)
+- interface exploratoire
+
+Publication/contexte : carnet (Hypothèses), revue (revues.org), éditeur (Books)
+
+- comparer un doc par rapport à un doc d'un autre container ? Bof.
+- les écarts vont plutôt être recherchés au niveau documentaire
+- détecteur capable de raconter une histoire
+
+
+
